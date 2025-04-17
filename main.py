@@ -71,6 +71,8 @@ def main():
                             Follow chronological logic when necessary, helping the reader understand how events unfolded and why.
 
                             Organize the report in subsections that puts the stakeholders in the interview at the center stage.
+
+                            Make use of direct citations (translated to english and naming who said it) to strengthen points when deemed appropriate. You are an expert redator so you know when it will be appropriate.
                         
                         The goal is to turn the raw interview content into a coherent, well-structured, and contextualized report that provides clarity, insight, and a critical overview of the situation.
 
