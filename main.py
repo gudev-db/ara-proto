@@ -25,8 +25,7 @@ def main():
     
     # Opções de análise
     st.sidebar.header("Opções de Análise")
-    nivel_detalhe = st.sidebar.selectbox("Nível de detalhe:", ["Resumido", "Detalhado", "Extremamente detalhado"])
-    incluir_sumario = st.sidebar.text_area("Observações", value=True)
+    incluir_sumario = st.sidebar.text_area("Observações", value='')
 
     
     if st.button("Gerar Relatório"):
