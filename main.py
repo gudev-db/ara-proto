@@ -69,6 +69,8 @@ def main():
                             If the interview reveals contrasting viewpoints, present both fairly without editorializing.
                         
                             Follow chronological logic when necessary, helping the reader understand how events unfolded and why.
+
+                            Organize the report in subsections that puts the stakeholders in the interview at the center stage.
                         
                         The goal is to turn the raw interview content into a coherent, well-structured, and contextualized report that provides clarity, insight, and a critical overview of the situation.
 
