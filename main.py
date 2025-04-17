@@ -74,7 +74,6 @@ def main():
 
                             Make use of direct citations (translated to english and naming who said it) to strengthen points when deemed appropriate. You are an expert redator so you know when it will be appropriate.
 
-                            At the end of the report, create a new sections where you will draw valuable insights not obvious within the interview.
                             
                         The goal is to turn the raw interview content into a coherent, well-structured, and contextualized report that provides clarity, insight, and a critical overview of the situation.
 
@@ -92,12 +91,25 @@ def main():
                     relatorio = client.models.generate_content(
                         model="gemini-2.0-flash",
                         contents=[prompt]).text
+
+                    relatorio2 = client.models.generate_content(
+                        model="gemini-2.0-flash",
+                        contents=[f'''based on the report
+                        ##REPORT##
+                        
+                        {relatorio}
+                        
+                        ##END REPORT##
+                        
+                        - draw valuable insights not initially obvious. You are an expert at reading between the lines''']).text
                     
                     # Exibir o relatório
                     st.success("Relatório gerado com sucesso!")
                     st.markdown("---")
                     st.subheader("📋 Relatório da Entrevista")
                     st.markdown(relatorio)
+                    st.subheader("📋 Insights Estratégicos")
+                    st.markdown(relatorio2)
                     
                     # Opção para baixar o relatório
                     st.download_button(
