@@ -117,12 +117,8 @@ Because Lee strongly opposed the hiring of Jinjiang, she faced no consequences w
                 
                 Estruture o relatório da seguinte forma:
                 
-                1. [Só se solicitado] Resumo Executivo (máximo 1 parágrafo)
-                2. Tópicos Principais Discutidos (lista com os principais assuntos)
-                3. Pontos-Chave Identificados (destaque os pontos mais relevantes)
-                4. [Só se solicitado] Insights Estratégicos (análise mais aprofundada)
-                5. Se houver citação direta de quem falou o que, coloque isso no relatório.
-                6. Escreva em inglês e siga o exemplo à risca em termos de formato e forma de escrita.
+
+                1. Escreva em inglês e siga o exemplo à risca em termos de formato e forma de escrita.
 
                 
                 
