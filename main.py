@@ -76,8 +76,10 @@ def main():
 
                             Generate at least 2500 tokens in your output.
 
+                            
 
-                            Make use of direct citations (translated to english and naming who said it) to strengthen points when deemed appropriate. You are an expert redator so you know when it will be appropriate.
+
+                            Make use of direct citations (translated to english and naming who said it) to strengthen points when deemed appropriate. You are an expert redator so you know when it will be appropriate. You need to make at least a few direct citations in order to strengthen your point
 
                             
                         The goal is to turn the raw interview content into a coherent, well-structured, and contextualized report that provides clarity, insight, and a critical overview of the situation.
