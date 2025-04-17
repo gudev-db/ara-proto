@@ -26,9 +26,8 @@ def main():
     # Opções de análise
     st.sidebar.header("Opções de Análise")
     nivel_detalhe = st.sidebar.selectbox("Nível de detalhe:", ["Resumido", "Detalhado", "Extremamente detalhado"])
-    incluir_sumario = st.sidebar.checkbox("Incluir resumo executivo", value=True)
-    incluir_topicos = st.sidebar.checkbox("Incluir tópicos-chave", value=True)
-    incluir_insights = st.sidebar.checkbox("Incluir insights estratégicos", value=True)
+    incluir_sumario = st.sidebar.text_area("Observações", value=True)
+
     
     if st.button("Gerar Relatório"):
         if not entrevista:
@@ -89,7 +88,8 @@ def main():
                 {entrevista}
                 
                
-
+                ##Adjustments (if empty, just ignore)##
+                {incluir_sumario}
 
                 """
                 
