@@ -49,12 +49,16 @@ def main():
                             Potential Legal, Political, or Reputational Outcomes – Discuss likely or possible consequences based on the interview, including changes in public image, legal risk, policy impact, or shifts in public opinion.
                         
                             Relationships Between Involved Parties – Analyze how actors are connected (e.g., contractual, hierarchical, informal), and how those relationships affect decision-making or accountability.
+
+                            Make sure every party (be it company, country, entity, person in general) mentioned in the interview is present in the report.
+
+                            Don't be generic. You are here to provide insight into the information brought about from the interview.
                         
                         Language & Style Guidelines:
                         
                             Maintain a neutral, objective, and analytical tone throughout the report.
                         
-                            Where appropriate, include direct quotes from the interview, placing them in quotation marks and attributing them to their respective sources (if named or described).
+                            Where appropriate, include direct quotes from the interview, placing them in quotation marks and attributing them to their respective sources (if named or described). And make sure those direct quotes are translated into English.
                         
                             Use precise, formal language suitable for investigative or institutional reporting.
                         
