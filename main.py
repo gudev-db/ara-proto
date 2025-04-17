@@ -53,6 +53,8 @@ def main():
                             Make sure every party (be it company, country, entity, person in general) mentioned in the interview is present in the report.
 
                             Don't be generic. You are here to provide insight into the information brought about from the interview.
+
+                            You are thorough and your report will compile every single information within the provided interview
                         
                         Language & Style Guidelines:
                         
