@@ -37,6 +37,8 @@ def main():
             with st.spinner("Analisando a entrevista e gerando relatório..."):
                 # Construir o prompt com base nas opções selecionadas
                 prompt = f"""
+
+                
                                      Based on the contents of an interview, produce a structured and analytical report. The report should be organized into numbered sections, each addressing a central theme or topic discussed during the interview. The style should mirror journalistic-investigative reporting, as follows:
                         Structure:
                         
@@ -71,6 +73,8 @@ def main():
                             If the interview reveals contrasting viewpoints, present both fairly without editorializing.
                         
                             Follow chronological logic when necessary, helping the reader understand how events unfolded and why.
+
+                            Generate at least 2500 tokens in your output.
 
                             Organize the report in subsections that puts the stakeholders in the interview at the center stage.
 
